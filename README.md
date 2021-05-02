@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deewahni
 - 👀 I’m interested in web designs and front-end web development.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on landing pages and simple front-ends to help me improve my skills and apply what i've learned.
+- 💞️ I’m looking to work on landing pages and simple front-ends to help me improve my skills and apply what i've learned.
 - 📫 How to reach me deetidalgo@gmail.com
 
 <!---
